@@ -1,6 +1,6 @@
 <!-- Banner or Profile Image -->
 <p align="center">
-  <img src="![image1](image1)" alt="Coding & Space Art" width="80%"/>
+  <img src="" alt="Coding & Space Art" width="80%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Antero Luís 👋</h1>
@@ -28,19 +28,29 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/antero-franciso-8a6466277)
+<p align="left" alt="teste" height="30">
+  <a href="https://www.linkedin.com/in/antero-franciso-8a6466277">
+    <img height="30" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="r3tnuh-C++" height="30" width="30" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png">
   <img align="center" alt="r3tnuh-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="r3tnuh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="r3tnuh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="r3tnuh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="r3tnuh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="r3tnuh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="r3tnuh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="r3tnuh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
+
+<p align="center" alt="teste" height="30">
+  <a href="https://skillicons.dev">
+    <img height="30" src="https://skillicons.dev/icons?i=cpp,cs,c,py,html,css,js,react,linux,postgres,postman,dotnet,git,vim" />
+  </a>
+</p>
 ---
 
 ### 💡 Fun Fact
