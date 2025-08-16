@@ -1,6 +1,7 @@
 <!-- Banner or Profile Image -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding & Space Art" width="40%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Aesthetic Terminal" width="40%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Antero Luís 👋</h1>
@@ -49,6 +50,6 @@
 
 ---
 
-<p align="center">
-  <img src="![image1](image1)" alt="Aesthetic Terminal" width="80%"/>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding & Space Art" width="30%"/>
 </p>
