@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Banner or Profile Image -->
+<p align="center">
+  <img src="![image1](image1)" alt="Coding & Space Art" width="80%"/>
+</p>
 
-<!--
-**r3tnuh-007/r3tnuh-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm r3tnuh-007 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Software Engineer • Junior Programmer<br>
+  Student @ Catholic University of Angola & 42Luanda</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 👨‍💻 Passionate about code, algorithms, and solving real-world problems.
+- 🏫 Currently studying at Catholic University of Angola and 42Luanda.
+- 🛠️ Enjoy building and creating with:
+  - **Languages:** C, C++, Python, HTML, CSS, JavaScript
+- 🌌 Always learning, always curious.
+
+### 🌟 Featured Project
+
+- **Fractol Project:**  
+  A deep dive into fractals, graphics, and complex pattern generation.  
+  (Want to know more? Check out my repos!)
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/antero-franciso-8a6466277)
+
+---
+
+### 💡 Fun Fact
+
+> “The journey is the reward.”  
+> ...and my terminal is my spaceship 🚀
+
+---
+
+<p align="center">
+  <img src="![image1](image1)" alt="Aesthetic Terminal" width="80%"/>
+</p>
