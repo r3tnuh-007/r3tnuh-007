@@ -1,6 +1,6 @@
 <!-- Banner or Profile Image -->
 <p align="center">
-  <img src="" alt="Coding & Space Art" width="80%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding & Space Art" width="40%"/>
 </p>
 
 <h1 align="center">Hi there, I'm Antero Luís 👋</h1>
