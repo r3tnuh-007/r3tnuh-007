@@ -30,7 +30,7 @@
 ### 📫 Connect with Me
 
 <p align="left" alt="teste" height="30">
-  <a href="https://www.linkedin.com/in/antero-franciso-8a6466277">
+  <a href="www.linkedin.com/in/antero-l-8a6466277">
     <img height="30" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
