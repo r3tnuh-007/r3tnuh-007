@@ -45,8 +45,8 @@
 
 ### 💡 Fun Fact
 
-> “The journey is the reward.”  
-> ...and my terminal is my spaceship 🚀
+> “What we know is only a drop.”  
+> ...What we do not know is an ocean.
 
 ---
 
